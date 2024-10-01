@@ -1,3 +1,4 @@
+```
 g1add-1: 41 mgas/s
 g1msm-1: 66 mgas/s
 g1msm-10: 37 mgas/s
@@ -88,3 +89,4 @@ pairing-5: 76 mgas/s
 pairing-6: 53 mgas/s
 pairing-7: 94 mgas/s
 pairing-8: 105 mgas/s
+```
