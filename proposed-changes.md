@@ -1,12 +1,12 @@
-G1 Add: 0.75x
-G1 Mul: No change
-G1 MSM: 2.5x
-Map to G1: 0.75x
-G2 Add: 0.75x
-G2 Mul: 0.5x
-G2 MSM: 4x (so 2x overall with change to mul)
-Map to G2: 0.2x
-Pairing: 1.2x
+- G1 Add: 0.75x
+- G1 Mul: No change
+- G1 MSM: 2.5x
+- Map to G1: 0.75x
+- G2 Add: 0.75x
+- G2 Mul: 0.5x
+- G2 MSM: 4x (so 2x overall with change to mul)
+- Map to G2: 0.2x
+- Pairing: 1.2x
 
 This corresponds to the following gas prices:
 ```
